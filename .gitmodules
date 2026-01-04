@@ -1,0 +1,3 @@
+[submodule "simulations/mp-gadget-janus"]
+	path = simulations/mp-gadget-janus
+	url = https://github.com/PGPLF/MP-Gadget.git
